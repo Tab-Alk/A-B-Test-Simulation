@@ -22,9 +22,9 @@ The project followed a structured approach, from data simulation through to stat
 
 The bar plot below visually compares the mean email signup rates for the control and treatment groups, along with their 95% confidence intervals. This provides a clear visual summary of the new signup flow's performance.
 
-*(This is where you will embed your visualization. Make sure the image file, e.g., `ab_test_signup_rates.png`, is in your repository, perhaps in an `assets` or `images` folder.)*
 
-![A/B Test Signup Rates](assets/ab_test_signup_rates.png)
+<img width="428" alt="Screenshot 2025-05-27 at 12 37 38 PM" src="https://github.com/user-attachments/assets/590319a2-a871-4032-8390-f99bcf571691" />
+
 
 This chart helps to quickly grasp the magnitude of the difference in signup rates and the precision of these estimates.
 
