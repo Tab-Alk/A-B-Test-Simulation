@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project simulates and analyzes an A/B test designed to evaluate the effectiveness of a new, potentially more efficient email signup flow on a website. The core objective is to determine if the new design (treatment group) leads to a statistically significant improvement in signup rates compared to the existing design (control group). This type of analysis is crucial for data-driven decision-making in product development and marketing
+This project simulates and analyzes an A/B test designed to evaluate the effectiveness of a new, potentially more efficient email signup flow on a website. The core objective is to determine if the new design (treatment group) leads to a statistically significant improvement in signup rates compared to the existing design (control group). This type of analysis is crucial for data-driven decision-making in product development and marketing.
 
 ## Methodology
 
